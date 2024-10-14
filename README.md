@@ -1,2 +1,2 @@
-# LeetCode-JavaScript
-LeetCode-JavaScript
+# JavaScriptCode
+JavaScriptCode
