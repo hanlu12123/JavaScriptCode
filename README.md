@@ -1,2 +1,3 @@
 # JavaScriptCode
-JavaScriptCode
+
+JavaScript Code
